@@ -8,5 +8,5 @@ Easy version of [Pac Man](https://en.wikipedia.org/wiki/Pac-Man). Eat dots and e
 <img width="1120" height="735" alt="image" src="https://github.com/user-attachments/assets/ccd0e381-69bf-4d60-ad75-482a96807fbf" />
 <img width="922" height="740" alt="image" src="https://github.com/user-attachments/assets/48d7ac93-abad-4767-a1a5-c490c3ad4901" />
 
-3. Open "pac_man_starter.pyde" with Processing and add other files in the sketch.
+3. Open "pacman_game.pyde" with Processing and add other files in the sketch.
 4. Click the Run button and enjoy!
